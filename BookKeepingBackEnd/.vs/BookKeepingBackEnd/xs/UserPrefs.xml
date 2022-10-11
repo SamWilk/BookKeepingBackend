@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DA084390-8513-43C5-8537-05FBAF1577F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookKeepingBackEnd/Controllers/BookController.cs">
+    <Files>
+      <File FileName="BookKeepingBackEnd/Models/Book.cs" Line="15" Column="2" />
+      <File FileName="BookKeepingBackEnd/Models/BookReview.cs" Line="1" Column="1" />
+      <File FileName="BookKeepingBackEnd/Controllers/BookController.cs" Line="15" Column="1" />
+      <File FileName="BookKeepingBackEnd/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookKeepingBackEnd" expanded="True">
+            <Node name="BookKeepingBackEnd" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BookKeepingBackEnd PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
